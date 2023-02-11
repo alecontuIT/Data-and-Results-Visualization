@@ -1,6 +1,6 @@
 ## Bitcoin: the new digital gold
 
-This repository contains all the files used for the final project of the exam "Data and Results Visualization" exam at Polimi.
+This repository contains all the files used for the final project of the "Data and Results Visualization" exam at Polimi.
 
 The repo contains:
 <ul>
